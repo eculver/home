@@ -23,11 +23,11 @@ Because it's just a git repository, I should mention a few things that make it "
 
 Similar to [@jcorbin's home](https://github.com/jcorbin/home), I also employ a few other "twists" around git:
 
-* `$HOME`'s only remote is a local repository such as `$HOME/home-int`
-* `$HOME` is on a context-specifc, non-master branch (e.g. `personal`, `server`, `debian`, `mac`, etc)
-* `$HOME/home-int` has the remotes you'd expect:
-** Github for master and other public things
-** Private git server for "patron" branches (aka work-related)
+- `$HOME`'s only remote is a local repository such as `$HOME/home-int`
+- `$HOME` is on a context-specifc, non-master branch (e.g. `personal`, `server`, `debian`, `mac`, etc)
+- `$HOME/home-int` has the remotes you'd expect:
+    - Github for master and other public things
+    - Private git server for "patron" branches (aka work-related)
 
 ## Installation (such meta)
 
@@ -45,7 +45,7 @@ After running this, I should be off to the races, committing code at will like a
 
 ### Applications
 
-Switch to the appropriate architecture branch (i.e. `darwin`, `linux`, etc.) to see what's included
+Switch to the appropriate architecture branch (i.e. `darwin`, `linux`, etc.) to see what's included.
 
 __todo__
 
